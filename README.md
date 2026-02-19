@@ -38,32 +38,50 @@ An automated golf ball dispenser that detects when you're ready and feeds a ball
 
 ## Bill of Materials
 
-> **Note:** Many of these parts are interchangeable and can be found on Amazon, eBay, or any electronics supplier. The AliExpress links below are what was used in this build. Prices shown are approximate per-unit costs (many listings sell in multi-packs).
+> **Note:** Many of these parts are interchangeable and can be found on Amazon, eBay, or any electronics supplier. The AliExpress links below are what was used in this build. Prices shown are approximate per-unit costs (many listings sell in multi-packs, so buying just one may cost more).
 
-| # | Component | Qty Needed | Approx. Unit Price | Link |
+### Electronics
+
+| # | Component | Qty | Approx. Unit Price | Link |
 |---|---|---|---|---|
 | 1 | Arduino Nano (ATmega328P) | 1 | ~$2.50 | [AliExpress](https://www.aliexpress.us/item/3256806444439267.html) |
 | 2 | L298N Motor Driver Module | 1 | ~$1.50 | [AliExpress](https://www.aliexpress.us/item/3256807078618738.html) |
 | 3 | VL53L0X ToF Distance Sensor | 1 | ~$1.80 | [AliExpress](https://www.aliexpress.us/item/3256806179489186.html) |
-| 4 | DC Geared Motor (12V) | 1 | ~$3.00 | [AliExpress](https://www.aliexpress.us/item/3256805899293106.html) |
+| 4 | Low RPM DC Geared Motor (12V) | 1 | ~$3.00 | [AliExpress](https://www.aliexpress.us/item/3256805899293106.html) |
 | 5 | Micro Limit Switch | 1 | ~$0.20 | [AliExpress](https://www.aliexpress.us/item/3256806027015669.html) |
-| 6 | Rocker Switch (ON/OFF) | 1 | ~$0.30 | [AliExpress](https://www.aliexpress.us/item/2251832837763800.html) |
+| 6 | ON/OFF Rocker Switch | 1 | ~$0.30 | [AliExpress](https://www.aliexpress.us/item/2251832837763800.html) |
 | 7 | DC Barrel Jack Panel Mount | 1 | ~$0.30 | [AliExpress](https://www.aliexpress.us/item/3256804296022885.html) |
-| 8 | Prototype PCB Board | 1 | ~$0.25 | [AliExpress](https://www.aliexpress.us/item/3256804346592962.html) |
-| 9 | JST XH Connectors | 1 set | ~$1.50 | [AliExpress](https://www.aliexpress.us/item/3256801518277095.html) |
-| 10 | Dupont Jumper Wires | 1 set | ~$1.00 | [AliExpress](https://www.aliexpress.us/item/3256805859138836.html) |
-| 11 | M3 Brass Heat-Set Inserts | 1 pack | ~$1.50 | [AliExpress](https://www.aliexpress.us/item/3256809271320211.html) |
-| 12 | M3 Screws Assortment | 1 pack | ~$2.00 | [AliExpress](https://www.aliexpress.us/item/3256802218134509.html) |
+| 8 | 12V 1A AC-DC Power Adapter | 1 | ~$3.00 | [AliExpress](https://www.aliexpress.us/item/3256804346592962.html) |
+| 9 | Small Prototype PCB Board | 1 | ~$0.25 | [AliExpress](https://www.aliexpress.us/item/3256801518277095.html) |
 
-**Estimated total cost: ~$16 - $20** (buying individual components)
+### Hardware
+
+| # | Component | Qty | Approx. Unit Price | Link |
+|---|---|---|---|---|
+| 10 | M5 Heat-Set Inserts (brass) | 7 | ~$0.10 ea | [AliExpress](https://www.aliexpress.us/item/3256809271320211.html) |
+| 11 | M5 Screws | 7 | ~$0.05 ea | [AliExpress](https://www.aliexpress.us/item/3256802218134509.html) |
+| 12 | M4 Screw + Nut | 1 | ~$0.05 | [AliExpress](https://www.aliexpress.us/item/3256802218134509.html) |
+| 13 | M3 Screws | 2 | ~$0.05 ea | [AliExpress](https://www.aliexpress.us/item/3256802218134509.html) |
+| 14 | 6mm Steel Ball Bearings / BBs | ~20+ | ~$0.02 ea | [AliExpress](https://www.aliexpress.us/item/3256805859138836.html) |
+| 15 | Epoxy | 1 | ~$2.00 | - |
+
+### Wiring / Consumables
+
+| # | Component | Qty | Notes |
+|---|---|---|---|
+| 16 | JST XH Connectors | 1 set | [AliExpress](https://www.aliexpress.us/item/3256806179489186.html) |
+| 17 | Hook-up Wire / Jumper Wire | assorted | Any silicone or dupont wire |
+| 18 | Solder | - | Lead-free recommended |
+
+**Estimated total cost: ~$18 - $25** (buying individual components)
 
 > Prices fluctuate on AliExpress. Many of these components are sold in multi-packs, so the per-unit cost can be much lower if you're building multiple units or want spares.
 
-### Additional Requirements
+### Tools Required
 
-- **12V DC Power Supply** (barrel jack, 1A+ recommended)
 - **3D Printer** (for printing the enclosure and carousel)
 - **Soldering iron** (for heat-set inserts and wiring)
+- **Basic hand tools** (screwdrivers, wire strippers)
 
 ## 3D Printed Parts
 
