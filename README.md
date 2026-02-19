@@ -47,7 +47,7 @@ https://youtu.be/GQfpbspkEQ4
 | 1 | Arduino Nano (ATmega328P) | 1 | ~$2.50 | [AliExpress](https://www.aliexpress.us/item/3256806444439267.html) |
 | 2 | L298N Motor Driver Module | 1 | ~$1.50 | [AliExpress](https://www.aliexpress.us/item/3256807078618738.html) |
 | 3 | VL53L0X ToF Distance Sensor | 1 | ~$1.80 | [AliExpress](https://www.aliexpress.us/item/3256806179489186.html) |
-| 4 | Low RPM DC Geared Motor (12V) | 1 | ~$3.00 | [AliExpress](https://www.aliexpress.us/item/3256805899293106.html) |
+| 4 | Low RPM DC Geared Motor (12V) | 1 | ~$12.00 | [AliExpress](https://www.aliexpress.us/item/3256805899293106.html) |
 | 5 | Micro Limit Switch | 1 | ~$0.20 | [AliExpress](https://www.aliexpress.us/item/3256806027015669.html) |
 | 6 | ON/OFF Rocker Switch | 1 | ~$0.30 | [AliExpress](https://www.aliexpress.us/item/2251832837763800.html) |
 | 7 | DC Barrel Jack Panel Mount | 1 | ~$0.30 | [AliExpress](https://www.aliexpress.us/item/3256804296022885.html) |
