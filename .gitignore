@@ -1,0 +1,15 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE
+.vscode/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Original photos folder (renamed copies are in photos/)
+Photos-3-001/
