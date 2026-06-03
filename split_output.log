@@ -1,0 +1,61 @@
+AI_AGENT=claude-code_2-1-156_agent
+ANTHROPIC_API_KEY=
+ANTHROPIC_BASE_URL=https://api.anthropic.com
+API_TIMEOUT_MS=900000
+BAGGAGE=sentry-environment=production,sentry-release=Claude%401.9659.2,sentry-public_key=2f98127cbffe4740b1f767a2de77d23b,sentry-trace_id=f0bd068011ea44e5ba9c627da4c84909,sentry-org_id=1158394
+CLAUDECODE=1
+CLAUDE_AGENT_SDK_VERSION=0.3.156
+CLAUDE_CODE_DISABLE_CRON=
+CLAUDE_CODE_EMIT_TOOL_USE_SUMMARIES=false
+CLAUDE_CODE_ENABLE_ASK_USER_QUESTION_TOOL=true
+CLAUDE_CODE_ENTRYPOINT=claude-desktop
+CLAUDE_CODE_EXECPATH=/Users/pfarnham/Library/Application Support/Claude/claude-code/2.1.156/claude.app/Contents/MacOS/claude
+CLAUDE_CODE_SDK_HAS_HOST_AUTH_REFRESH=1
+CLAUDE_CODE_SDK_HAS_OAUTH_REFRESH=1
+CLAUDE_CODE_SESSION_ID=2d892b8f-28da-43db-a1a9-0f9ace568bba
+CLAUDE_CODE_TMPDIR=/tmp/claude-501
+COMMAND_MODE=unix2003
+COREPACK_ENABLE_AUTO_PIN=0
+DISABLE_AUTOUPDATER=1
+DISABLE_MICROCOMPACT=1
+FONTCONFIG_FILE=/etc/fonts/fonts.conf
+FONTCONFIG_PATH=/etc/fonts
+GIT_EDITOR=true
+GIT_SSL_CAINFO=/Applications/FreeCAD.app/Contents/Resources/ssl/cacert.pem
+HOME=/Users/pfarnham
+LD_LIBRARY_PATH=/Applications/FreeCAD.app/Contents/Resources/lib
+LOGNAME=pfarnham
+MCP_CONNECTION_NONBLOCKING=true
+MallocNanoZone=0
+NODE_USE_SYSTEM_CA=1
+NoDefaultCurrentDirectoryInExePath=1
+OLDPWD=/Users/pfarnham/Documents/rg_home_assistant/golf-ball-dispenser/.claude/worktrees/recursing-curie-42087a
+PATH=/Library/Frameworks/Python.framework/Versions/3.14/bin:/usr/local/bin:/usr/local/sbin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/901ce8e4-769c-4ad1-a044-91b56c5ce045/4151bd20-b697-4a7e-91b8-564e0e5a99d9/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_0155zZVATbJU3jHUmPP9NvMC/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_01VTbvGZYaCVU2CNSvhDCnkg/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_011v5h6QUzBZvas64y44XLhy/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_014WxCYbLf7f3uw2isHFR9US/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_01XXJmxLXPEhPMmnxmrgntNw/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_01S1HcuzG4CPx8bTxZDQAguG/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_012ABz1xjgtJYWKrcJkXW6ad/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_016LBQPy1oNvFGwwJW4oBzUN/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_01PBVJh18JySdSHvKEhDSiQY/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_01BB1HUyHKrddLdPpkTMBUvE/bin:/Users/pfarnham/Library/Application Support/Claude/local-agent-mode-sessions/4151bd20-b697-4a7e-91b8-564e0e5a99d9/901ce8e4-769c-4ad1-a044-91b56c5ce045/rpm/plugin_01J1ZUJcofzWJxiajSBsZ8US/bin
+PREFIX=/Applications/FreeCAD.app/Contents/Resources
+PWD=/Users/pfarnham/Documents/rg_home_assistant/golf-ball-dispenser
+PYTHONHOME=/Applications/FreeCAD.app/Contents/Resources
+PYTHONPATH=/Applications/FreeCAD.app/Contents/Resources
+SHELL=/bin/zsh
+SHLVL=1
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.LsUQMwxE19/Listeners
+SSL_CERT_FILE=/Applications/FreeCAD.app/Contents/Resources/ssl/cacert.pem
+TMPDIR=/tmp/claude-501
+TMPPREFIX=/tmp/claude-501/zsh
+USER=pfarnham
+USE_LOCAL_OAUTH=
+USE_STAGING_OAUTH=
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+_=/Applications/FreeCAD.app/Contents/MacOS/FreeCAD
+__CFBundleIdentifier=com.anthropic.claudefordesktop
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0
+Running: /Applications/FreeCAD.app/Contents/Resources/bin/freecad
+Error: Failed to open library "/Library/Frameworks/3DconnexionNavlib.framework/3DconnexionNavlib"! Error: dlopen(/Library/Frameworks/3DconnexionNavlib.framework/3DconnexionNavlib, 0x0005): tried: '/Library/Frameworks/3DconnexionNavlib.framework/3DconnexionNavlib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionNavlib.framework/3DconnexionNavlib' (no such file), '/Library/Frameworks/3DconnexionNavlib.framework/3DconnexionNavlib' (no such file)!
+<Part> Importing STEP via 'Part' is deprecated. Use 'ImportGui' instead.
+Exception while processing file: /Users/pfarnham/Documents/rg_home_assistant/golf-ball-dispenser/.claude/split_model.FCMacro ['ascii' codec can't encode character '\u2717' in position 1: ordinal not in range(128)]
+Recompute......
+						(10 %)							(20 %)							(30 %)							(40 %)							(50 %)							(60 %)							(70 %)							(80 %)							(90 %)							(100 %)									[FreeCAD Console mode <Use Ctrl-D (i.e. EOF) to exit.>]
+>>> 
+======================================================================
+GOLF BALL DISPENSER - STEP FILE SPLITTER
+======================================================================
